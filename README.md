@@ -1,2 +1,3 @@
 # temporal-demo
-temporal Springboot Demo
+
+Demo project for Spring Boot and Temporal
